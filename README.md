@@ -5,3 +5,4 @@
 | Webplot Digitizer	| Website		    | Plot to Data   	  | https://apps.automeris.io/wpd/	|
 | Win Merge Portable| App     	    | Compare Texts  	  | https://winmerge.org/?lang=tr 	|
 | Mural           	| Website		    | Project Management| https://app.mural.co/         	|
+| VisualTheasures  	| Website		    | English Synon map | https://www.visualthesaurus.com	|
