@@ -6,3 +6,4 @@
 | Win Merge Portable| App     	    | Compare Texts  	  | https://winmerge.org/?lang=tr 	|
 | Mural           	| Website		    | Project Management| https://app.mural.co/         	|
 | VisualTheasures  	| Website		    | English Synon map | https://www.visualthesaurus.com	|
+| Flowing Data    	| Website		    | Data+ Visualisati | https://flowingdata.com/      	|
