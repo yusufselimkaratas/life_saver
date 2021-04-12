@@ -7,3 +7,4 @@
 | Mural           	| Website		    | Project Management| https://app.mural.co/         	|
 | VisualTheasures  	| Website		    | English Synon map | https://www.visualthesaurus.com	|
 | Flowing Data    	| Website		    | Data+ Visualisati | https://flowingdata.com/      	|
+| Int. Standarts   	| Website		    | Standarts         | https://wenku.baidu.com/       	|
