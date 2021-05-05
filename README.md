@@ -8,3 +8,4 @@
 | VisualTheasures  	| Website		    | English Synon map | https://www.visualthesaurus.com	|
 | Flowing Data    	| Website		    | Data+ Visualisati | https://flowingdata.com/      	|
 | Int. Standarts   	| Website		    | Standarts         | https://wenku.baidu.com/       	|
+| Cost of Living   	| Website		    | Life Standarts         | https://www.numbeo.com/cost-of-living/      	|
