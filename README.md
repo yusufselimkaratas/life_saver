@@ -11,3 +11,4 @@
 | Cost of Living   	| Website		    | Life Standarts         | https://www.numbeo.com/cost-of-living/      	|
 | Online Meeting  	| Website		    | Inno Meeting         | https://www.wonder.me/    	|
 | Note Taking App  	| Website/App		    | Inno Noting        | https://miro.com/app/dashboard/    	|
+| I LOVE PDF  	| Website		    |PDF Manipulation        | https://www.ilovepdf.com   	|
