@@ -12,3 +12,4 @@
 | Online Meeting  	| Website		    | Inno Meeting         | https://www.wonder.me/    	|
 | Note Taking App  	| Website/App		    | Inno Noting        | https://miro.com/app/dashboard/    	|
 | I LOVE PDF  	| Website		    |PDF Manipulation        | https://www.ilovepdf.com   	|
+| HaxBall  	| Website		    |Online Game     | https://www.haxball.com/play	|
