@@ -9,7 +9,8 @@
 | Flowing Data    	| Website		    | Data+ Visualisati | https://flowingdata.com/      	|
 | Int. Standarts   	| Website		    | Standarts         | https://wenku.baidu.com/       	|
 | Cost of Living   	| Website		    | Life Standarts         | https://www.numbeo.com/cost-of-living/      	|
-| Online Meeting  	| Website		    | Inno Meeting         | https://www.wonder.me/    	|
+| Online Meeting - Closed  	| Website		    | Inno Meeting         | https://www.wonder.me/    	|
+| Online Meeting  	| Website		    | Inno Meeting         | https://www.gather.town/   	|
 | Note Taking App  	| Website/App		    | Inno Noting        | https://miro.com/app/dashboard/    	|
 | I LOVE PDF  	| Website		    |PDF Manipulation        | https://www.ilovepdf.com   	|
 | HaxBall  	| Website		    |Online Game     | https://www.haxball.com/play	|
